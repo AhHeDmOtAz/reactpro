@@ -1,0 +1,23 @@
+.test{
+    background-color:#fff;
+    
+}
+.test h2{
+    font-size: 80px;
+    color: #2c3e50;;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+.test1{
+    width: 100px;
+    border: 3px #2c3e50 solid;
+    font-size: 20px;
+    margin: 10px;
+}
+.test i{
+    color: #2c3e50;
+}
+.test2 textarea{
+    resize: none;
+}
